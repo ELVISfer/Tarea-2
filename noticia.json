@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "Categoria": "Suceso",
+    "Imagen": "imagen",
+    "Descripcion": "Accidente deja varios heridos",
+    "detalle": "Esto ocurro en San Pedro Sula  donde un bus se descontrolo y un carro turismmo  hubieron 20 heridos"
+  },
+
+  {
+    "id": "2",
+    "Categoria": "Suceso",
+    "Imagen": "imagen",
+    "Descripcion": "Accidente deja varios heridos",
+    "detalle": "Esto ocurro en San Pedro Sula  donde un bus se descontrolo y un carro turismmo  hubieron 20 heridos"
+  }
+]
