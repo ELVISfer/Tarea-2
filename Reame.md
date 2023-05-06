@@ -1,6 +1,6 @@
 ## Esta es la tarea de la semana 2
 
-# Enlace que nos jenera la aplicacion al ainicilaizarla []( "http://localhost:3000" ) es necesario que la copiemos y pequemos el postmant
+# En este enlace  []( "http://localhost:3000" ) es necesario que la copiemos y pequemos el postmant
  como comando de ejecusion de la aplicacion esta npm Start
 
 Fue necesario instalar el paqute de dependencia body-parse ya que trabaje con express yo siento que acaorta
